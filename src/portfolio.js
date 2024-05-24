@@ -26,8 +26,8 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/drive/folders/1kZ0aeKJu8KYEfOcJuCd2MR1NEvy-sUFB?usp=drive_link",
-  // portfolio_repository:
-  //   "https://drive.google.com/file/d/1AYdShRLaaInMKqtldmEFNe-1uWZgkuZ5/view?usp=sharing",
+  portfolio_repository:
+    "https://github.com/mrsawy",
   githubProfile: "https://github.com/mrsawy",
 };
 
